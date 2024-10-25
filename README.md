@@ -1,0 +1,3 @@
+Django project: StoreFront
+Author: CK-EmbPro
+git clone ...
